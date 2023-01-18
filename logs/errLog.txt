@@ -1,0 +1,1 @@
+20230107	08:30:49	8b0bdd90-1ff8-41ad-b498-e77659453812	Error: Not allowed by CORS
